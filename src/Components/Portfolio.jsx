@@ -31,29 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Photo Gallery for A.J Vierci",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Small project for A.J Vierci, a company that needed this for human resources. This project was made with Jquery, HTML, PHP, CSS and MySql.",
+    url: "https://github.com/kuuukooo/Galeria5-AJAX",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Personal Portfolio",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Personal portfolio from FreeCodeCamp's Responsive Portfolio Tutorial. It helped me to learn the basics of HTML and CSS.",
+    url: "https://kuuukooo.github.io/kuuuko.github.io/",
   },
   {
-    title: "My Resume Site",
+    title: "Codespaces Microsoft Learn Path",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Codespaces Microsoft Learn Path. This project taught me how to use Codespaces and how to use it with Github.",
+    url: "https://github.com/kuuukooo/skills-code-with-codespaces",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+    title: "Introduction to Github",
+    description: "Introduction to Github. This project taught me the basics of Github.",
+    url: "https://github.com/kuuukooo/skills-introduction-to-github",
+  }
 ];
 
 const Portfolio = () => {
